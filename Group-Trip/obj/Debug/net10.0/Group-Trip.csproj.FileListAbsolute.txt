@@ -1,0 +1,14 @@
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\bin\Debug\net10.0\Group-Trip.exe
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\bin\Debug\net10.0\Group-Trip.deps.json
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\bin\Debug\net10.0\Group-Trip.runtimeconfig.json
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\bin\Debug\net10.0\Group-Trip.dll
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\bin\Debug\net10.0\Group-Trip.pdb
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.AssemblyInfoInputs.cache
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.AssemblyInfo.cs
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.csproj.CoreCompileInputs.cache
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.dll
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\refint\Group-Trip.dll
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.pdb
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\Group-Trip.genruntimeconfig.cache
+C:\Users\eliza\CSCI1250\lab4-group-trip\Group-Trip\obj\Debug\net10.0\ref\Group-Trip.dll
