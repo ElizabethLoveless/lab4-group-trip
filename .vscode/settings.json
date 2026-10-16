@@ -1,3 +1,5 @@
 {
-    "dotnet.defaultSolution": "Group-Trip.slnx"
+    "dotnet.defaultSolution": "Group-Trip.slnx",
+    "js/ts.suggest.autoImports": false,
+    "js/ts.suggest.includeCompletionsForImportStatements": false
 }
