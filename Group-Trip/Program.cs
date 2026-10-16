@@ -7,7 +7,6 @@
 * reports on a whole group instead of one person.
 */
 
-
 const int SlicesPerPizza = 8;
 const double TaxRate=0.18;
 
@@ -59,6 +58,7 @@ Console.WriteLine("===Part 3: Who Works How Long ===");
 
 for(int i = 0; i < names.Length; i++)
 {
+
 
     double takeHome = TakeHomePay(hoursWorked[i], hourlyRate[i], TaxRate);
     double takeHomePerHour = takeHome / hoursWorked[i];
